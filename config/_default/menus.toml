@@ -17,6 +17,12 @@
   url = "/docs/tema2/"
 
 [[docs]]
+  name = "Ejemplos uso interno"
+  weight = 4
+  identifier = "ejemplos"
+  url = "/docs/ejemplos/"
+
+[[docs]]
   name = "Anexos"
   weight = 999
   identifier = "anexos"
